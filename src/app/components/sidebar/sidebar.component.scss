@@ -1,0 +1,35 @@
+ul{
+    color: white;
+}
+.navbar-nav{
+    color: white !important;
+}
+
+/* Define styles for the button */
+.custom-button {
+    background-color: white; /* Blue background color */
+    border: none;
+    width: 100%;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 1px;
+  }
+
+  button:hover {
+    background-color:#E4E4E4;
+    color: gray;
+  }
+  
+  /* Style the anchor tag within the button */
+  .custom-button a {
+    text-decoration: none; /* Remove underlines from the link */
+    color: black; /* Text color */
+    font-weight: 200;
+    size: 10px;
+  }
+  
+  /* Style the icon within the anchor tag */
+  .custom-button a i {
+    margin-right: 0px; /* Add some spacing to the right of the icon */
+  }
+  

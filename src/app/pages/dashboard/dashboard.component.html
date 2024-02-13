@@ -1,0 +1,48 @@
+<div class="container-fluid h-100">
+  <div class="row h-100">
+    <!-- Colonne pour le Pie Chart -->
+    
+
+    <!-- Colonne pour le Vertical Chart et les statistiques -->
+    <div class="col-md-6">
+      <!-- Deuxième graphique à barres (bar chart) -->
+      <div class="chart-item">
+        <ngx-charts-bar-vertical
+          [view]="view"
+          [scheme]="colorScheme"
+          [results]="Stats"
+          [legend]="showLegend"
+          [showXAxisLabel]="showLabels"
+          [showYAxisLabel]="showLabels"
+          [xAxis]="true"
+          [yAxis]="true"
+          (select)="onSelect($event)"
+          (activate)="onActivate($event)"
+          (deactivate)="onDeactivate($event)"
+        ></ngx-charts-bar-vertical>
+      </div>
+
+      <!-- Statistiques -->
+      <div class="card card-stats mb-4 mb-xl-0">
+        <div class="stats-container">
+          <div class="stat-card">
+            <div class="stat-title">Nombre total de publications</div>
+            <div class="stat-value">{{ totalPublications }}</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-title">Nombre total d'utilisateurs avec rôle d'utilisateur</div>
+            <div class="stat-value">{{ totalUsersWithUserRole }}</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-title">Réclamations en Attente Count</div>
+            <div class="stat-value">{{ reclamationEnAttenteCount }}</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-title">Réclamations Terminées Count</div>
+            <div class="stat-value">{{ reclamationTermineeCount }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

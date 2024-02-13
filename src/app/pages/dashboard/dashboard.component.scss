@@ -1,0 +1,28 @@
+.stats-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .stat-card {
+    flex: 1;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px}
+
+/* dashboard.component.scss */
+
+/* Styles pour diviser les graphiques en deux colonnes */
+.chart-grid {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments horizontalement */
+  }
+  
+  .chart-item {
+    flex: 1; /* Chaque graphique occupe une moitié de l'espace disponible */
+    padding: 10px; /* Ajoute un peu d'espace entre les graphiques */
+    box-sizing: border-box; /* Assurez-vous que le padding ne modifie pas la largeur totale */
+  }
+  
+  /* Vous pouvez personnaliser davantage le style selon vos besoins */
+  
+   

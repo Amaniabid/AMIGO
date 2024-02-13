@@ -1,0 +1,2122 @@
+[
+    {
+      "THE_BAD_WORD": "-----EXAMPLE-----",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "-----APPS-----",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "whatsapp",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "-----DUTCH-----",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "aardappels afgieteng",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "achter het raam zitten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "afberen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "aflebberen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "afrossen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "afrukken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "aftrekken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "afwerkplaats",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "afzeiken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "afzuigen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "anderhalve man en een paardekop",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "anita",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "asbak",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bagger schijten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "balen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bedonderen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "befborstelg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "beffen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bekken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "belazeren",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "besodemieterd zijn",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "besodemieteren",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "beurt",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "boemelen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "boerelul",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "boerenpummelg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bokkelul",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "botergeil",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "broekhoesten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "brugpieperg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "buffelen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "buiten de pot piesen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "da's kloten van de bok",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "de ballen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "de hoer spelen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "de hond uitlaten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "de koffer induiken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "delg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "de pijp aan maarten geven",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "de pijp uitgaan",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dombo",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "draaikontg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "driehoog achter wonen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "drolg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "drooggeiler",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "droogkloot",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "een beurt geven",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "een nummertje maken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "een wip maken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "eikel",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "engerd",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "flamoes",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "flikken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "flikker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gadverdamme",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "galbak",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gedoogzone",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "geilneef",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gesodemieter",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "godverdomme",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "graftak",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gras maaien",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gratenkutg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "greppeldel",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hoempert",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hoer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hoerenbuurt",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hoerenloper",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hoerig",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hufter",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "huisdealer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "johny",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kanen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kettingzeugg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "klaarkomen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "klerebeer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "klooien",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "klootjesvolk",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "klootoog",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "klootzak",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kloten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kontg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kontneuken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "krentekakker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kuttelikkertje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kwakkieg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "liefdesgrot",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "lul-de-behanger",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "lulhannes",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "lummel",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "mafketel",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "matennaaierg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "matje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "mutsg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "naaien",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "naakt",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "neuken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "neukstier",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "oetlul",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "opgeilen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "opkankeren",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "oprotten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "opsodemieteren",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "op z'n hondjes",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "op z'n sodemieter geven",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "opzouten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ouwehoer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ouwehoeren",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ouwe rukker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "paardelul",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "penozeg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "piesen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "piemel",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pijpbekkieg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pijpen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pleurislaaier",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "poepen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "portiekslet",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "potverdorie",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "publiciteitsgeil",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "raaskallen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "reetridder",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "reet trappen",
+      "IGNORE_IN_COMBINATION_WITH": "voor zijn"
+    },
+    {
+      "THE_BAD_WORD": "remsporeng",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "reutelen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rothoer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rotzak",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rukhond",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rukken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "schatje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "schijt",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "schijten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "schoft",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "schuinsmarcheerder",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shit",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "slempen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sletg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sletterig",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "slik mijn zaad",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "snolg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "spuiten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "standje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "standje-69g",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "stoephoer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "stootje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "strontg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sufferdg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tapijtnek",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "teefg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "temeier",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "teringlijer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "toeter",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tongzoeng",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "triootjeg",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "trottoir prostituÃ©e",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "trottoirteef",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vergallen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "verkloten",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "verneuken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "viespeuk",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vingeren",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vleesroos",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "voor jan lul",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "voor jan-met-de-korte-achternaam",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "watje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "welzijnsmafia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wippen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wuftje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "zaadje",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "zakkenwasser",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "zeiken",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "zeiker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "zuigen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "zuiplap",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "------ENGLISH------",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "2g1c",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "2 girls 1 cup",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "acrotomophilia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "alabama hot pocket",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "alaskan pipeline",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "anal",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "anilingus",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "anus",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "apeshit",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "arsehole",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "DISABLEDass",
+      "IGNORE_IN_COMBINATION_WITH": "bass_"
+    },
+    {
+      "THE_BAD_WORD": "asshole",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "assmunch",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "auto erotic",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "autoerotic",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "babeland",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "baby batter",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "baby juice",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ball gag",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ball gravy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ball kicking",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ball licking",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ball sack",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ball sucking",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bangbros",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bareback",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "barely legal",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "barenaked",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bastard",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bastardo",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bastinado",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "beaner",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "beaners",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "beaver cleaver",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "beaver lips",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bestiality",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "big black",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "big breasts",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "big knockers",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "big tits",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bimbos",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "birdlock",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bitches",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "black cock",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blonde action",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blonde on blonde action",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blowjob",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blow job",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blow your load",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blue waffle",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "blumpkin",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bollocks",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bondage",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "boner",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "boob",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "boobs",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "booty call",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "brown showers",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "brunette action",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bukkake",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bulldyke",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bullet vibe",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bullshit",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bung hole",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "bunghole",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "busty",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "buttcheeks",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "butthole",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "camel toe",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "camgirl",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "camslut",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "camwhore",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "carpet muncher",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "carpetmuncher",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "chocolate rosebuds",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "circlejerk",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cleveland steamer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "clitoris",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "clover clamps",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "clusterfuck",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cock",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cocks",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "coprolagnia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "coprophilia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cornhole",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "coon",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "coons",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "creampie",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cumming",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cunnilingus",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "cunt",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "darkie",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "date rape",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "daterape",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "deep throat",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "deepthroat",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dendrophilia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dildo",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dingleberry",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dingleberries",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dirty pillows",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dirty sanchez",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "doggie style",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "doggiestyle",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "doggy style",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "doggystyle",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dog style",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dolcett",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "domination",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dominatrix",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dommes",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "donkey punch",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "double dong",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "double penetration",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dp action",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "dry hump",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "eat my ass",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ecchi",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ejaculation",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "erotic",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "erotism",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "escort",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "eunuch",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "faggot",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fecal",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fellatio",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "feltch",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "female squirting",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "femdom",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "figging",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fingerbang",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fingering",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fisting",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "foot fetish",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "footjob",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "frotting",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fuck",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fuck buttons",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fuckin",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fucking",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fucktards",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fudge packer",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "fudgepacker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "futanari",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gang bang",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gay sex",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "genitals",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "giant cock",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "girl on top",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "girls gone wild",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "goatcx",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "goatse",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "god damn",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "gokkun",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "golden shower",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "goodpoop",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "goo girl",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "goregasm",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "grope",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "group sex",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "g-spot",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hand job",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "handjob",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hard core",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hardcore",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hentai",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "homoerotic",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "honkey",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hooker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hot carl",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "hot chick",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "how to kill",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "how to murder",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "huge fat",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "humping",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "incest",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "intercourse",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jack off",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jail bait",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jailbait",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jelly donut",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jerk off",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jigaboo",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jiggaboo",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jiggerboo",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "jizz",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "juggs",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kike",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kinbaku",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kinkster",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "kinky",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "knobbing",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "leather restraint",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "leather straight jacket",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "lemon party",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "lolita",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "lovemaking",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "make me come",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "male squirting",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "masturbate",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "menage a trois",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "milf",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "missionary position",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "motherfucker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "mound of venus",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "mr hands",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "muff diver",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "muffdiving",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nambla",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nawashi",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "negro",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "neonazi",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nigga",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nigger",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nig nog",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nimphomania",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nipple",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nipples",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nsfw images",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nude",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nudity",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nympho",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "nymphomania",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "octopussy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "omorashi",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "one cup two girls",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "one guy one jar",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "orgasm",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "orgy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "paedophile",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "paki",
+      "IGNORE_IN_COMBINATION_WITH": "pakistan"
+    },
+    {
+      "THE_BAD_WORD": "panties",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "panty",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pedobear",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pedophile",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pegging",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "penis",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "phone sex",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "piece of shit",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pissing",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "piss pig",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pisspig",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "playboy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pleasure chest",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pole smoker",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "ponyplay",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "poontang",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "punany",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "poop chute",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "poopchute",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "porn",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "porno",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pornography",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "prince albert piercing",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pubes",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "pussy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "queaf",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "queef",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "quim",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "raghead",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "raging boner",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "raping",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rapist",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rectum",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "reverse cowgirl",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rimjob",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rimming",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rosy palm",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rosy palm and her 5 sisters",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "rusty trombone",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sadism",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "santorum",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "schlong",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "scissoring",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "semen",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shaved beaver",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shaved pussy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shemale",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shibari",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shit",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shitblimp",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shitty",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shota",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "shrimping",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "skeet",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "slanteye",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "slut",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "s&m",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "smut",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "snatch",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "snowballing",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sodomize",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sodomy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "splooge",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "splooge moose",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "spooge",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "spread legs",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "spunk",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "strap on",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "strapon",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "strappado",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "strip club",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "style doggy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "suck",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sucks",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "suicide girls",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "sultry women",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "swastika",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "swinger",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tainted love",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "taste my",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tea bagging",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "threesome",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "throating",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tied up",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tight white",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tits",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "titties",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "titty",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tongue in a",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "topless",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tosser",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "towelhead",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tranny",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tribadism",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tub girl",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tubgirl",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "tushy",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "twat",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "twink",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "twinkie",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "two girls one cup",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "undressing",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "upskirt",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "urethra play",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "urophilia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vagina",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "venus mound",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vibrator",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "violet wand",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vorarephilia",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "voyeur",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "vulva",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wank",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wetback",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wet dream",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "white power",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wrapping men",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "wrinkled starfish",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "yaoi",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    },
+    {
+      "THE_BAD_WORD": "yellow showers",
+      "IGNORE_IN_COMBINATION_WITH": ""
+    }
+  ]
